@@ -1,18 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  
   box-sizing: border-box;
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; 
-}
-
-html, input, #app {
-  font-family: "Mulish", serif;
-  line-height: 160%;
-  font-weight: 400;
-  font-size: 1.6rem;
-  color: var(--text-primary);
 }
 
 :root {
@@ -22,9 +14,17 @@ html, input, #app {
   --text-sm: 1.4rem
 
   --title-primary: #202024;
-  --text-primary: #121214;
+  --color-text-primary: #121214;
   --footer-color: #387E96;
   --brand-primary: #065e7c; 
+}
+
+html, input, #app {
+  font-family: "Mulish", serif;
+  line-height: 160%;
+  font-weight: 400;
+  font-size: 1.6rem;
+  color: var(--text-primary);
 }
 
 .text-sm{
@@ -81,13 +81,19 @@ header form input {
   border: none;
   border-radius: .4rem;
 
+  color: white;
   font-weight: 600;
   line-height: 100%;
+  padding: 0 1.6rem;
 }
 
 header input::placeholder {
   color: white;
   padding: 1.2rem 1.4rem;
+}
+
+header form input:focus {
+  outline: 0;
 }
 
 main h1 {
