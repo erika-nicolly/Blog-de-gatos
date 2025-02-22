@@ -1,6 +1,3 @@
-<h1 align="center"> Blog de gatos </h1>
-
-
 <p align="center">
   <img alt="projeto blog-de-gatos" src="./.github/preview.png" width="100%">
 </p>
