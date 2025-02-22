@@ -11,4 +11,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ## 🌐 Acesse o projeto
-👉 [Nome do Projeto](https://erika-nicolly.github.io/Blog-de-gatos/)
+👉 [Blog de gatos](https://erika-nicolly.github.io/Blog-de-gatos/)
