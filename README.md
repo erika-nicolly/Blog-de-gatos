@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 ## 💻 Projeto
-Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto exclusivo do curso explorer, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 <br>
 
